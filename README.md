@@ -1,7 +1,8 @@
 # CSCSI-1410---PA1
 # This is a project from a freshman class where I learned basic of C++.
 
-Menu 1 - Does some mathematical steps for every number from 0 to 99.  
+Menu 1  
+Does some mathematical steps for every number from 0 to 99.  
         a) If the number (first) is less than 10, multiply it by 10.  
         b) Break the two digit number into a tens digit and a ones digit  
         c) (Remember that an integer / integer results in an truncated integer, not rounded up or down)  
@@ -16,7 +17,8 @@ Menu 1 - Does some mathematical steps for every number from 0 to 99.
            If not, print a message that you may have done something wrong.  
         
        
-Menu 2 -  a) Use print (cout) statements to show every mathematical step.  
+Menu 2  
+a) Use print (cout) statements to show every mathematical step.  
           b) Ask somebody to pick a number.  
           c) Double that number (B).  
           d) Add 9 to the result. (C)  
